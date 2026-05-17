@@ -3,3 +3,6 @@ ascii
 
 # dependência externa — baixar manualmente (veja README)
 include/stb_image.h
+
+# configurações locais do editor
+.vscode/
