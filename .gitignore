@@ -1,0 +1,5 @@
+# executável gerado pelo make
+ascii
+
+# dependência externa — baixar manualmente (veja README)
+include/stb_image.h
